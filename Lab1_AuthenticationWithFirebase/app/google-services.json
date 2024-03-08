@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373314833463",
+    "project_id": "lab1-authentication",
+    "storage_bucket": "lab1-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373314833463:android:6ad549931d66d0f22b43b2",
+        "android_client_info": {
+          "package_name": "com.example.lab1_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmGwauI-aAISy7wwtsE_98AZg_1B04Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373314833463:android:0b920760f37ad76b2b43b2",
+        "android_client_info": {
+          "package_name": "com.example.lab1_authenticationwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmGwauI-aAISy7wwtsE_98AZg_1B04Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
